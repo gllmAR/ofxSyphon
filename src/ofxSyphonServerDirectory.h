@@ -9,6 +9,8 @@
 
 #include "ofMain.h"
 #include <algorithm>
+#import "SyphonNameboundClient.h"
+
 
 class ofxSyphonServerDirectory;
 
